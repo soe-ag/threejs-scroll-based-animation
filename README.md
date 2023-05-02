@@ -1,3 +1,3 @@
-"# threejs-scroll-based-animation" 
+threejs-scroll-based-animation
 
 published at https://threejs-scroll-based-practice.netlify.app/
